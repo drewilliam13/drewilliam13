@@ -38,6 +38,6 @@ I'm a Software QA Automation Engineer with experience across SaaS, mobile, API, 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/drewilliam13"><img src="https://github-readme-stats.vercel.app/api?username=drewilliam13&show_icons=true&count_private=true&commits_year=2026&cache_seconds=86400&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="drewilliam13's GitHub stats" /></a>
+<a href="http://www.github.com/drewilliam13"><img src="https://github-readme-stats.vercel.app/api?username=drewilliam13&show_icons=true&count_private=true&cache_seconds=86400&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="drewilliam13's GitHub stats" /></a>
 
 <a href="https://github.com/drewilliam13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewilliam13&langs_count=10&cache_seconds=21600&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
